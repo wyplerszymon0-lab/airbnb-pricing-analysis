@@ -72,6 +72,11 @@ Main features:
 - Interactive dashboards in Tableau / Power BI
 - Price prediction model (machine learning)
 
+## How to run the project
+```bash
+pip install -r requirements.txt
+python analysis.py
+
 ---
 
 ##  Author
